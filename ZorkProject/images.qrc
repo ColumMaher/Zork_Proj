@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/defense_protect_armor_plate_hero-512.webp</file>
+    </qresource>
+</RCC>
